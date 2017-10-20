@@ -23,6 +23,10 @@ class ResizeListener extends React.Component {
       width: this.iframe.scrollWidth
     };
 
+    if (this.props.debug) {
+      console.log(resizeUpdateObject);
+    }
+
     this.props.onResize(resizeUpdateObject);
   }
 
