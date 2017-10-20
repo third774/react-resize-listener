@@ -1,8 +1,8 @@
 {
   "name": "react-resize-listener",
-  "version": "0.3.0",
+  "version": "0.3.2",
   "description": "Produce universal library with webpack and es6",
-  "main": "lib/Library.min.js",
+  "main": "lib/library.min.js",
   "scripts": {
     "build": "webpack --env build",
     "dev": "webpack --progress --colors --watch --env dev",
