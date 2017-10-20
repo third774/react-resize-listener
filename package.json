@@ -1,7 +1,7 @@
 {
   "name": "react-resize-listener",
-  "version": "0.3.2",
-  "description": "Produce universal library with webpack and es6",
+  "version": "0.3.3",
+  "description": "Resize listener for React apps",
   "main": "lib/library.min.js",
   "scripts": {
     "build": "webpack --env build",
@@ -34,13 +34,9 @@
     "url": "https://github.com/third774/react-resize-listener.git"
   },
   "keywords": [
-    "webpack",
-    "es6",
-    "starter",
-    "library",
-    "universal",
-    "umd",
-    "commonjs"
+    "react",
+    "resize",
+    "listener"
   ],
   "author": "Kevin Kipp",
   "license": "MIT",
