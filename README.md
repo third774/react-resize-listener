@@ -1,5 +1,9 @@
 # React Resize Listener
 
+## Demo
+
+[Check out the demo.](https://stackblitz.com/edit/react-tw9fjr)
+
 ## Installation
 
 `npm i react-resize-listener`
