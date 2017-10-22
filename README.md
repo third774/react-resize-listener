@@ -2,7 +2,7 @@
 
 ## Demo
 
-[Check out the demo.](https://stackblitz.com/edit/react-tw9fjr)
+[Check out the demo.](https://stackblitz.com/edit/react-nrlzrm)
 
 ## Installation
 
