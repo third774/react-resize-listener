@@ -1,6 +1,6 @@
 {
   "name": "react-resize-listener",
-  "version": "0.3.4",
+  "version": "0.3.5",
   "description": "Resize listener for React apps",
   "main": "lib/library.min.js",
   "scripts": {
